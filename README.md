@@ -1,7 +1,9 @@
 
 # Serverless Compute and Cloud Database
 
-#### building an serverless compute with Azure functions and connect it to Cosmos Db
+#### building an serverless compute with Azure functions and connect it to Cosmos Db 5/12/2020
+
+#### By Jiwon Han
 
 ## 1. Description
 
