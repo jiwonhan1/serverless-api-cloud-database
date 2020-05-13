@@ -11,7 +11,7 @@ I have created all four CRUD functionalities, and connected data with Cosmos Db 
 
 When start debugging, there are four CRUD https.
 
-<img src="src/Img/http.png" width="550px" />
+<img src="Img/http.png" width="550px" />
 
 ## 2. Postman 
 
@@ -19,11 +19,11 @@ Below are images for API tests in Postman.
 
 #### Create function test
 
-<img src="src/Img/create.png" width="550px" />
+<img src="Img/create.png" width="550px" />
 
 #### Get function test
 
-<img src="src/Img/get.png" width="550px" />
+<img src="Img/get.png" width="550px" />
 
 ## 3. Development
 
