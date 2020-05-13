@@ -56,7 +56,7 @@ I ran command from Visual Studio Code Terminal and got above issue. I solved thi
 
 `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
-2. ReadOnly setting__
+2. ReadOnly setting <br/>
 `Your app is currently in read only mode because you are running from a package file. To make any changes update the content in your zip file and WEBSITE_RUN_FROM_PACKAGE app setting.`__
 I changed `WEBSITE_RUN_FROM_PACKGE`'s setting value from 1 to 0. Now editing is available on App Functions.
 
